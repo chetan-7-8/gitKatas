@@ -1,1 +1,1 @@
-var s = Zemoso;
+hello world
