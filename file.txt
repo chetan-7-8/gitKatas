@@ -1,3 +1,0 @@
-3
-nice work
-gitignore
